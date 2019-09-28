@@ -11,6 +11,7 @@ a {
   width:72%;
   margin:auto;
 }
+<<<<<<< HEAD
 .main_images1 a:hover {
   transform: scale(1.25);
 }
@@ -32,6 +33,8 @@ a {
   border: 5px solid green;
   transform: scale(1.25);
 }
+=======
+>>>>>>> 6bdf60fff83d3f841fcf17222c379fc7e027bcb4
 
 .topnav {
   overflow: hidden;
@@ -55,8 +58,12 @@ a {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+<<<<<<< HEAD
 }
 
 
 
 
+=======
+}
+>>>>>>> 6bdf60fff83d3f841fcf17222c379fc7e027bcb4
