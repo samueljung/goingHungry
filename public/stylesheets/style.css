@@ -6,3 +6,8 @@ body {
 a {
   color: #00B7FF;
 }
+
+.main_images {
+  width:50%;
+  margin:auto;
+}
