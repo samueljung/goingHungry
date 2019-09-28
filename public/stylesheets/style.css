@@ -2,7 +2,6 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
 a {
   color: #00B7FF;
 }
@@ -11,26 +10,32 @@ a {
   width:72%;
   margin:auto;
 }
+.main_images1:hover {
+  transform: translate(20px,20px);
+}
 
 .main_images2 {
   width:60%;
   margin:auto;
 }
+.main_images2:hover {
+  transform: translate(20px,20px);
+}
 .main_images3 {
   width:65%;
   margin:auto;
 }
+.main_images3:hover {
+  transform: translate(20px,20px);
+}
 .col-sm-4 {
   text-align: center;
 }
-.col-sm-4:hover {
-  border: 5px solid green;
-  transform: translate(20px,20px);
-}
+
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(124, 117, 117);
 }
 
 .topnav a {
