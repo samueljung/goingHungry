@@ -2,9 +2,6 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-a {
-  color: #00B7FF;
-}
 
 .main_images1 {
   width:72%;
@@ -53,6 +50,7 @@ a {
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color:  #00B7FF;
   color: white;
 }
+
